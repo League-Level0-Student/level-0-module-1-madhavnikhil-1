@@ -10,7 +10,7 @@ public class unbirthday {
 	
 String birthday = JOptionPane.showInputDialog("When is your birhtday?");
 
-if (birthday.equalsIgnoreCase(11/20)) {
+if (birthday.equalsIgnoreCase("11/21")) {
 	JOptionPane.showMessageDialog(null, "Happy Birthday");
 	
 }
